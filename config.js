@@ -94,7 +94,7 @@ global.randomThumb = [
   "https://telegra.ph/file/662564e95a8fe4c21cb33.jpg"
 ];
 //SETTINGS DO (DIGITAL OCEAN)
-
+global.token_do = ''
 
 
 
