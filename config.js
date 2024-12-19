@@ -4,10 +4,10 @@
 */
 const functionn = require('./lib/functions')
 
-global.rowner = [["6285719898124", "dycoders.xyz", true], ["6285719898124", "dycoders.xyz", true]];
-global.botname = "DY_NET"
-global.ownername = "DYCODERS.XYZ"
-global.owner = "6285719898124"
+global.rowner = [["6282325781726", "razael", true]];
+global.botname = "Razael - MD"
+global.ownername = "razael"
+global.owner = "6282325781726"
 global.idch = "120363303267333730@newsletter"
 
 global.bug = {
@@ -32,10 +32,10 @@ global.github = 'dycoders.xyz'
 
 //Sticker
 global.packname = 'by'
-global.author = 'DYCODERS.XYZ'
-global.tag = `© 2024 | DY_NET`
+global.author = 'razael'
+global.tag = `© 2024 | Razael - MD`
 //Plek
-global.foter = 'DYCODERS.XYZ'
+global.foter = 'Razael - MD'
 global.Tasistent = `DYCODERS`
 global.copyright = `© DYCODERS`
 global.email = 'xx@gmail.com' // kalo mau buypanel work, gunakan email yang terdaftar di saweria.co
